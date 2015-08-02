@@ -1,8 +1,18 @@
-QARD
+#QARD: Online Card Game Builder
 =============
 
-Online Card Game Builder
+## About
+Qard is a web-based trading card game creator where users can:
+ - Create custom cards with attack, defense, and artwork
+ - Define rules for gameplay like deck-size, hand-size, and starting health
+ - Play their custom game in realtime with an opponent through the browser
 
+## Stack
+ - Ruby on Rails
+ - HTML/CSS/Javascript
+ - MaterializeCSS/jQuery/Pusher API
+ - SQLite3
+  
 ## Getting Started
 
 1. `bundle install`
